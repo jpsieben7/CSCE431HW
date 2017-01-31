@@ -2,6 +2,8 @@
 
 # Part 1
 
+#GitHub sync test
+
 def sum arr
   # YOUR CODE HERE
   if arr.empty?
